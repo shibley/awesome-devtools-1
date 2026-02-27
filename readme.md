@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [API Status Check](https://apistatuscheck.com/) - Free real-time status monitoring dashboard aggregating 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 
 ## APIs & Backends
 
@@ -116,6 +117,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+* [RatedWithAI](https://ratedwithai.com/) - AI-powered website accessibility scanner that checks WCAG 2.2 compliance with actionable fix suggestions.
 
 ## Docs & Knowledge
 
