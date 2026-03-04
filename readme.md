@@ -15,6 +15,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [APIs & Backends](#apis--backends)
 * [Design & UI Tools](#design--ui-tools)
 * [Testing & Quality](#testing--quality)
+* [Accessibility Testing](#accessibility-testing)
 * [Docs & Knowledge](#docs--knowledge)
 * [Browser Extensions](#browser-extensions)
 * [Productivity & Misc](#productivity--misc)
@@ -116,6 +117,14 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
 * [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Continuous inspection of code quality.
+
+## Accessibility Testing
+
+* [axe-core](https://github.com/dequelabs/axe-core) - Industry-standard accessibility testing engine by Deque, used by Google Chrome and Microsoft.
+* [WAVE](https://wave.webaim.org/) - Browser extension for visual accessibility evaluation by WebAIM.
+* [RatedWithAI](https://ratedwithai.com/) - AI-powered WCAG accessibility scanner with automated monitoring and compliance reports.
+* [Pa11y](https://pa11y.org/) - Command-line accessibility testing tool for CI/CD integration.
+* [Stark](https://www.getstark.co/) - Accessibility toolkit for designers and developers with Figma/Sketch plugins.
 
 ## Docs & Knowledge
 
